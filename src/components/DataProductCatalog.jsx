@@ -13,7 +13,7 @@ const DataProductCatalog = () => {
 
   const [currentUser, setCurrentUser] = useState({
     name: 'Andrei Gromov',
-    avatar: '/andrei_gromov.jpeg',
+    avatar: 'https://media.licdn.com/dms/image/v2/D4E03AQHVProt0AvVMg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1678930638885?e=1753920000&v=beta&t=2_bPpuxvtesR_aIsj8VPk3EWdnH-bS3CFYlxNr_VMPM',
     email: 'a.gromov@autodoc.eu', // Добавим email
     issuedAccess: [1, 4], // ID продуктов, к которым есть доступ
     favorites: [2, 6]     // ID избранных продуктов
