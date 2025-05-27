@@ -59,16 +59,16 @@ const DataProductCatalog = () => {
       owner: 'Sales Analytics Team',
       rating: 4.8,
       users: 145,
-      lastUpdated: '2024-05-20',
+      lastUpdated: '2025-01-20',
       tags: ['sales', 'analytics', 'real-time', 'forecasting', 'kpi'],
       dataSource: 'CRM System, ERP, SalesForce',
       refreshRate: 'Daily',
       accessLevel: 'Internal',
       features: ['Real-time metrics', 'Predictive forecasting models', 'Export to Excel/PDF', 'Mobile responsive design', 'Customizable alerts'],
       comments: [
-        { id: 'c1-1', user: 'Elena Petrova', avatar: 'https://i.pravatar.cc/150?u=elena', text: 'Great dashboard, very insightful!', timestamp: '2024-05-25T10:30:00Z' },
-        { id: 'c1-2', user: 'Ivan Sidorov', avatar: 'https://i.pravatar.cc/150?u=ivan', text: 'Helped us a lot with forecasting.', timestamp: '2024-05-26T14:15:00Z' },
-        { id: 'c1-3', user: 'João Silva', avatar: 'https://i.pravatar.cc/150?u=joao', text: 'The daily refresh is crucial for our morning stand-ups. Excellent work!', timestamp: '2024-05-27T08:00:00Z' }
+        { id: 'c1-1', user: 'Elena Petrova', avatar: 'https://i.pravatar.cc/150?u=elena', text: 'Great dashboard, very insightful!', timestamp: '2025-01-20T10:30:00Z' },
+        { id: 'c1-2', user: 'Ivan Sidorov', avatar: 'https://i.pravatar.cc/150?u=ivan', text: 'Helped us a lot with forecasting.', timestamp: '2025-01-26T14:15:00Z' },
+        { id: 'c1-3', user: 'João Silva', avatar: 'https://i.pravatar.cc/150?u=joao', text: 'The daily refresh is crucial for our morning stand-ups. Excellent work!', timestamp: '2025-04-27T08:00:00Z' }
       ]
     },
     {
@@ -80,15 +80,15 @@ const DataProductCatalog = () => {
       owner: 'Marketing Intelligence',
       rating: 4.6,
       users: 89,
-      lastUpdated: '2024-05-18',
+      lastUpdated: '2025-02-10',
       tags: ['customer', 'segmentation', 'marketing', 'demographics', 'ml'],
       dataSource: 'Customer Database, Web Analytics, Survey Data',
       refreshRate: 'Weekly',
       accessLevel: 'Restricted',
       features: ['Behavioral pattern analysis', 'Demographic & psychographic insights', 'Interactive drill-down charts', 'Scheduled email delivery', 'Persona generation aids'],
       comments: [
-        { id: 'c2-1', user: 'Anna Karenina', avatar: 'https://i.pravatar.cc/150?u=anna', text: 'Very detailed report. Useful for our campaigns.', timestamp: '2024-05-27T09:00:00Z' },
-        { id: 'c2-2', user: 'Sofia Costa', avatar: 'https://i.pravatar.cc/150?u=sofia', text: 'The segmentation is much clearer now, thanks to this report.', timestamp: '2024-05-28T11:20:00Z' }
+        { id: 'c2-1', user: 'Anna Karenina', avatar: 'https://i.pravatar.cc/150?u=anna', text: 'Very detailed report. Useful for our campaigns.', timestamp: '2025-02-12T09:00:00Z' },
+        { id: 'c2-2', user: 'Sofia Costa', avatar: 'https://i.pravatar.cc/150?u=sofia', text: 'The segmentation is much clearer now, thanks to this report.', timestamp: '2025-03-19T11:20:00Z' }
       ]
     },
     {
@@ -100,14 +100,14 @@ const DataProductCatalog = () => {
       owner: 'Finance Data Team',
       rating: 4.9,
       users: 67,
-      lastUpdated: '2024-05-22',
+      lastUpdated: '2025-02-22',
       tags: ['finance', 'kpi', 'executive', 'metrics', 'dataset', 'modeling'],
       dataSource: 'ERP, Financial Systems, Accounting Software',
       refreshRate: 'Real-time',
       accessLevel: 'Confidential',
       features: ['Real-time data feeds', 'Executive-ready summaries', 'API access for developers', 'Historical trend analysis tools', 'Data dictionary included'],
       comments: [
-          { id: 'c3-1', user: 'Pedro Almeida', avatar: 'https://i.pravatar.cc/150?u=pedro', text: 'Crucial dataset for our quarterly reviews. Very reliable.', timestamp: '2024-05-29T15:00:00Z' }
+          { id: 'c3-1', user: 'Pedro Almeida', avatar: 'https://i.pravatar.cc/150?u=pedro', text: 'Crucial dataset for our quarterly reviews. Very reliable.', timestamp: '2025-03-17T15:00:00Z' }
       ]
     },
     {
@@ -119,14 +119,14 @@ const DataProductCatalog = () => {
       owner: 'Operations Analytics',
       rating: 4.7,
       users: 123,
-      lastUpdated: '2024-05-19',
+      lastUpdated: '2025-03-09',
       tags: ['operations', 'efficiency', 'metrics', 'departments', 'kpi', 'optimization'],
       dataSource: 'HR System, Production DB, Logistics System',
       refreshRate: 'Hourly',
       accessLevel: 'Internal',
       features: ['Cross-departmental metrics', 'Efficiency tracking dashboards', 'Trend and root cause analysis', 'Automated alerts system', 'Process mining capabilities'],
       comments: [
-          { id: 'c4-1', user: 'Maria Oliveira', avatar: 'https://i.pravatar.cc/150?u=maria', text: 'The hourly refresh rate is fantastic for monitoring production.', timestamp: '2024-05-28T16:45:00Z' }
+          { id: 'c4-1', user: 'Maria Oliveira', avatar: 'https://i.pravatar.cc/150?u=maria', text: 'The hourly refresh rate is fantastic for monitoring production.', timestamp: '2025-04-24T16:45:00Z' }
       ]
     },
     {
@@ -138,7 +138,7 @@ const DataProductCatalog = () => {
       owner: 'Human Resources',
       rating: 4.4,
       users: 45,
-      lastUpdated: '2024-05-15',
+      lastUpdated: '2025-03-15',
       tags: ['hr', 'performance', 'retention', 'satisfaction', 'employee', 'talent'],
       dataSource: 'HRIS, Survey Platform, Performance Reviews',
       refreshRate: 'Monthly',
@@ -155,14 +155,14 @@ const DataProductCatalog = () => {
       owner: 'Supply Chain Team',
       rating: 4.8,
       users: 78,
-      lastUpdated: '2024-05-21',
+      lastUpdated: '2025-04-01',
       tags: ['supply-chain', 'logistics', 'vendors', 'performance', 'inventory', 'risk'],
       dataSource: 'SCM System, Logistics API, IoT Sensor Data',
       refreshRate: 'Real-time',
       accessLevel: 'Internal',
       features: ['Real-time shipment tracking', 'Vendor performance scorecards', 'Landed cost optimization models', 'Supply chain risk monitoring', 'Demand forecasting integration'],
       comments: [
-          { id: 'c6-1', user: 'Lucas Pereira', avatar: 'https://i.pravatar.cc/150?u=lucas', text: 'This has transformed our supply chain visibility. The risk monitoring is a game changer.', timestamp: '2024-05-29T10:10:00Z' }
+          { id: 'c6-1', user: 'Lucas Pereira', avatar: 'https://i.pravatar.cc/150?u=lucas', text: 'This has transformed our supply chain visibility. The risk monitoring is a game changer.', timestamp: '2025-05-01T10:10:00Z' }
       ]
     },
     {
@@ -174,15 +174,15 @@ const DataProductCatalog = () => {
       owner: 'Marketing Analytics Department',
       rating: 4.7,
       users: 65,
-      lastUpdated: '2024-05-28',
+      lastUpdated: '2025-04-15',
       tags: ['marketing', 'roi', 'campaign analysis', 'powerbi', 'cpa', 'clv', 'channel performance'],
       dataSource: 'Google Analytics, Ads Platforms (Google, Meta), CRM, HubSpot',
       refreshRate: 'Daily',
       accessLevel: 'Internal',
       features: ['Comprehensive ROI calculation', 'Channel effectiveness breakdown', 'CPA and CLV tracking', 'Audience segment performance', 'Budget allocation recommendations', 'Trend analysis over time'],
       comments: [
-        { id: 'c7-1', user: 'Beatriz Santos', avatar: 'https://i.pravatar.cc/150?u=beatriz', text: 'Finally, a clear view of our campaign ROI! The channel breakdown is extremely helpful.', timestamp: '2024-05-29T11:00:00Z' },
-        { id: 'c7-2', user: 'Tiago Ferreira', avatar: 'https://i.pravatar.cc/150?u=tiago', text: 'Helps us justify our marketing spend to stakeholders. Great visuals.', timestamp: '2024-05-29T14:30:00Z' }
+        { id: 'c7-1', user: 'Beatriz Santos', avatar: 'https://i.pravatar.cc/150?u=beatriz', text: 'Finally, a clear view of our campaign ROI! The channel breakdown is extremely helpful.', timestamp: '2025-04-21T11:00:00Z' },
+        { id: 'c7-2', user: 'Tiago Ferreira', avatar: 'https://i.pravatar.cc/150?u=tiago', text: 'Helps us justify our marketing spend to stakeholders. Great visuals.', timestamp: '2025-05-11T14:30:00Z' }
       ]
     },
     {
@@ -194,15 +194,15 @@ const DataProductCatalog = () => {
       owner: 'Digital Marketing Team',
       rating: 4.6,
       users: 71,
-      lastUpdated: '2024-05-29',
+      lastUpdated: '2025-04-29',
       tags: ['web analytics', 'conversion funnel', 'traffic analysis', 'powerbi', 'user behavior', 'seo', 'ux'],
       dataSource: 'Google Analytics, Adobe Analytics, Hotjar, Mixpanel',
       refreshRate: 'Daily',
       accessLevel: 'Internal',
       features: ['Traffic source breakdown', 'Funnel visualization & analysis', 'Bounce rate & exit page identification', 'User journey mapping', 'A/B testing performance comparison', 'Goal completion tracking'],
       comments: [
-        { id: 'c9-1', user: 'Rafael Alves', avatar: 'https://i.pravatar.cc/150?u=rafael', text: 'Essential for understanding our website performance. The funnel visualization is top-notch.', timestamp: '2024-05-29T17:00:00Z' },
-        { id: 'c9-2', user: 'Mariana Lima', avatar: 'https://i.pravatar.cc/150?u=mariana', text: 'We identified a major drop-off point thanks to this. Already working on a fix!', timestamp: '2024-05-30T09:30:00Z' }
+        { id: 'c9-1', user: 'Rafael Alves', avatar: 'https://i.pravatar.cc/150?u=rafael', text: 'Essential for understanding our website performance. The funnel visualization is top-notch.', timestamp: '2025-05-01T17:00:00Z' },
+        { id: 'c9-2', user: 'Mariana Lima', avatar: 'https://i.pravatar.cc/150?u=mariana', text: 'We identified a major drop-off point thanks to this. Already working on a fix!', timestamp: '2025-05-14T09:30:00Z' }
       ]
     },
     {
@@ -214,14 +214,14 @@ const DataProductCatalog = () => {
       owner: 'Human Resources Analytics',
       rating: 5.0,
       users: 3,
-      lastUpdated: '2024-05-26',
+      lastUpdated: '2025-05-26',
       tags: ['hr', 'employee performance', 'engagement', 'powerbi', 'kpi', 'talent management', 'retention'],
       dataSource: 'HRIS, Performance Management System, SurveyMonkey, LMS',
       refreshRate: 'Monthly',
       accessLevel: 'Restricted',
       features: ['Performance KPI tracking', 'Engagement survey analysis', 'Turnover rate prediction', 'Training impact assessment', 'Sentiment analysis of feedback', 'Manager-specific dashboards'],
       comments: [
-        { id: 'c8-1', user: 'Ana Clara Rodrigues', avatar: 'https://i.pravatar.cc/150?u=anaclara', text: 'This report gives us actionable insights for our HR initiatives.', timestamp: '2024-05-28T10:15:00Z' }
+        { id: 'c8-1', user: 'Ana Clara Rodrigues', avatar: 'https://i.pravatar.cc/150?u=anaclara', text: 'This report gives us actionable insights for our HR initiatives.', timestamp: '2025-05-26T10:15:00Z' }
       ]
     }
   ];
